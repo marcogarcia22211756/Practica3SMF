@@ -2,7 +2,7 @@
 
 # Práctica: Sistema musculoesquelético
 
-## Información de la estudiante
+## Información del estudiante
 
 Marco Antonio Garcia Montilla \[22211756]; l22211756@tectijuana.edu.mx
 
